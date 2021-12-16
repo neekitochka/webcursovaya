@@ -1,6 +1,6 @@
-PROJECT_NAME ?= veradocker
+PROJECT_NAME ?= webcursovaya
 VERSION = $(shell python3 setup.py --version | tr '+' '-')
-PROJECT_NAMESPACE ?= verrrmoot
+PROJECT_NAMESPACE ?= nikitakocherinskiy
 REGISTRY_IMAGE ?= $(PROJECT_NAMESPACE)/$(PROJECT_NAME)
 
 all:

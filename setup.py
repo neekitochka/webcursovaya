@@ -33,7 +33,7 @@ setup(
     license=module.__license__,
     description=module.__doc__,
     long_description=open('README.rst').read(),
-    url='https://github.com/verrrmoot/veradocker',
+    url='https://github.com/nikitakocherinskiy/webcursovaya',
     platforms='all',
     classifiers=[
         'Intended Audience :: Developers',

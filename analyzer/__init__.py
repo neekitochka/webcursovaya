@@ -1,12 +1,10 @@
 """
-Сервис с REST API, анализирующий рынок для промо-акций.
-Пример решения вступительного испытания 2019г. в Школу бэкенд‑разработки
-Яндекса.
+Сервис с REST API, Кочеринский Никита БФИ1901
 """
-__author__ = 'Alexander Vasin'
+__author__ = 'Nikita Kocherinskiy'
 __maintainer__ = __author__
 
-__email__ = 'alvassin@yandex.ru'
+__email__ = 'nik.koch.67@yandex.ru'
 __license__ = 'MIT'
 __version__ = '0.0.1'
 
